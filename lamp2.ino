@@ -7,7 +7,7 @@
  *    Wi-Fi module PWM signal - digital 2
  *    Relay 1/2/3 - digital 3/4/5
  *    
- *  Youtube: https://www.youtube.com/channel/UCWN_KT_CAjGZQG5grHldL8w
+ *  Mautoz Tech YouTube Channel: https://www.youtube.com/c/mautoztech
 */
  
 volatile int length = 0;
